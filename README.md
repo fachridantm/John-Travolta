@@ -1,9 +1,9 @@
 # John Travolta - Software Testing
 
-Repository untuk memenuhi tugas mandiri 1 mata kuliah Software Testing
+Repository for fulfill independent task Software Testing course 
 
 ## Software Testing
 
 - Nama : Fachridan Tio Mu'afa
 - NIM  : 11190910000017
-- Dosen Pengampu : Rizal Broer M.Kom.
+- Lecturer : Rizal Broer M.Kom.
